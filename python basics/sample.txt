@@ -1,0 +1,3 @@
+Hey there!, 
+I noticed that you have recently edited some Python code related to palindrome checking and
+ factorial calculation.
