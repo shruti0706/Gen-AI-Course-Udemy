@@ -1,3 +1,5 @@
 Hey there!, 
 I noticed that you have recently edited some Python code related to palindrome checking and
- factorial calculation.
+ factorial calculation. It seems like you've made some improvements to the palindrome function 
+ to handle sentences as well, and you've also refined the factorial function to correctly handle 
+ the base cases for 0 and 1.   
