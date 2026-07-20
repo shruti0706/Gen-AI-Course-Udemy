@@ -1,3 +1,3 @@
-Hey there, It's Starfire.
-Hope I complete my enitre course and get a certificate of completion.
-And an excellent job as well! ;)
+This is a test file.
+It contains some text.
+We will read it back.
